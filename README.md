@@ -1,3 +1,5 @@
+Alunos: Bernardo Brum e Allan Chang.
+
 Diagrama de classes:
 ![image](https://github.com/user-attachments/assets/ba37260b-f191-4b14-9d35-bfa8ece4c5dd)
 
